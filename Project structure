@@ -1,0 +1,11 @@
+image_classifier/
+├── app.py                # Flask web server
+├── model/
+│   └── model.h5          # Pretrained Keras model
+├── static/
+│   └── uploads/          # Uploaded images
+├── templates/
+│   └── index.html        # Upload form
+├── utils.py              # Image preprocessing
+├── requirements.txt
+└── README.md
