@@ -1,0 +1,14 @@
+
+1. User uploads an image via the web interface.
+
+
+2. Image is saved and preprocessed using OpenCV or PIL.
+
+
+3. Preprocessed image is passed to the model.
+
+
+4. Model returns the predicted class label.
+
+
+5. The result is displayed in the browser.
