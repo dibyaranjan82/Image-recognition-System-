@@ -1,0 +1,7 @@
+Build an image classification system that:
+
+Uses a trained deep learning model to classify objects in uploaded images
+
+Allows users to upload images via a web interface
+
+Provides real-time predictions using a flask api.
