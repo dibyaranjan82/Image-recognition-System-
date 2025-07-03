@@ -1,0 +1,13 @@
+Technologies Used:
+
+Component.        Technology
+
+Deep Learning.    TensorFlow / Keras
+
+Image Handling.   OpenCV/PIL
+
+Web Interface.    Flask (Python)
+
+Visualization.    HTML, Bootstrap (optional)
+
+Deployment.       Render / Heroku /Localhost
